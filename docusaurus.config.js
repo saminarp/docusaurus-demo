@@ -9,7 +9,7 @@ const config = {
   title: "My Site",
   tagline: "Dinosaurs are cool",
   url: "https://saminarp-docusaurus.github.io",
-  baseUrl: "/",
+  baseUrl: "/saminarp-docusaurus-sample/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
